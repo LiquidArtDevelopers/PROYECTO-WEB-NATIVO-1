@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+h1{
+    font-family: Arial;
+    font-size: 6rem;
+    color:brown;
+    background-color: wheat;
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 40px;
+}
+p{
+    font-family: arial;
+    font-size: 1.2rem;
+    color:rgb(46, 46, 46);
+    line-height: 1.6rem;
+    padding: 2rem;
+}
+.imagenPortada{
+    width: 100%;
+    height: auto;
+}
+.imagenNormal{
+    width: 50%;    
+}
